@@ -3,7 +3,7 @@
 #include <VGA.h>
 
 //Pin usado para el Chip Select de la memoria SD
-const int chipSelect = 10;
+const int chipSelect = 52;
 
 //Arreglo con las imagenes de todos los cuadros de animacion
 //(12 cuadros de animacion en total). Notese que al ser tipo
